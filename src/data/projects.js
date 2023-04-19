@@ -21,6 +21,13 @@ const projects = [
 		url: 'http://phpstack-984025-3450489.cloudwaysapps.com/'
 	},
 	{
+		id: 3,
+		title: 'Chebeauty',
+		category: 'Shopify projects',
+		img: require('@/assets/images/chebeauty.jpg'),
+		url: 'https://chebeauty.com/blogs/product-guides'
+	},
+	{
 		id: 4,
 		title: 'Covid Questionnaire',
 		category: 'Frontend projects',
@@ -33,6 +40,13 @@ const projects = [
 		category: 'Frontend projects',
 		img: require('@/assets/images/petshop.jpg'),
 		url: 'https://tikoot.github.io/PetShop/'
+	},
+	{
+		id: 3,
+		title: 'Cloudpillow',
+		category: 'Shopify projects',
+		img: require('@/assets/images/cloudpillow.jpg'),
+		url: 'https://yourcloudpillow.com/'
 	},
 	{
 		id: 6,
