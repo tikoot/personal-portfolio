@@ -3,7 +3,7 @@ const projects = [
 		id: 1,
 		title: 'Redberry Knight Cup',
 		category: 'Frontend projects',
-		img: require('@/assets/images/onboard.jpg'),
+		img: require('@/assets/images/bo1.jpg'),
 		url: 'https://fanciful-figolla-634fc0.netlify.app/'
 	},
 	{
@@ -59,7 +59,7 @@ const projects = [
 		id: 9,
 		title: 'Vacation Destination',
 		category: 'Frontend projects',
-		img: require('@/assets/images/web-project-1.jpg'),
+		img: require('@/assets/images/vacation.jpg'),
 		url: 'https://tikoot.github.io/Vacaton-Destination/'
 	},
 	{
@@ -80,7 +80,7 @@ const projects = [
 		id: 12,
 		title: 'Youtube Clone',
 		category: 'Frontend projects',
-		img: require('@/assets/images/youtub.jpg'),
+		img: require('@/assets/images/yout.jpg'),
 		url: 'https://tikoot.github.io/Youtube-clone/'
 	},
 ];
