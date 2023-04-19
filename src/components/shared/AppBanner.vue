@@ -38,13 +38,13 @@ export default {
 			>
 				A Full-Stack Web Developer 
 			</p>
-			<p class="text-ternary-dark dark:text-gray-400 pt-[20px] font-general-medium sm:text-left  text-center">As a developer my experience includes developing web applications, creating responsive and user-friendly interfaces. 
+			<p class="text-ternary-dark dark:text-gray-400 pt-[20px] font-general-medium sm:text-left  text-center">As a developer my experience includes developing web applications, and creating responsive, pixel-perfect, and user-friendly interfaces.
 				<br class="hidden sm:block">	
 				I have worked extensively with HTML, CSS, SCSS, TailwindCSS, JavaScript, Vue.
 				<br class="hidden sm:block">	
 					I also have experience working with Laravel, Pinia/Vuex, Vuetify, Vee-Validate, JWT Authentication, Laravel Socialite, Swagger, MySQL / SQLite, and many other tools.
 					<br class="hidden sm:block">	
-					At this moment I'm working as shopify front-end developer,so i have full understanding and practical knowledge of the shopify template language.
+					At this moment I'm working as a shopify front-end developer, so I have experience with the shopify template language.
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
