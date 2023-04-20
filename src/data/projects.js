@@ -15,13 +15,6 @@ const projects = [
 	},
 	{
 		id: 3,
-		title: 'Corona Time App',
-		category: 'Full Stack projects',
-		img: require('@/assets/images/mobile-project-2.jpg'),
-		url: 'http://phpstack-984025-3450489.cloudwaysapps.com/'
-	},
-	{
-		id: 3,
 		title: 'Chebeauty',
 		category: 'Shopify projects',
 		img: require('@/assets/images/chebeauty.jpg'),
