@@ -35,56 +35,56 @@ const projects = [
 		url: 'https://tikoot.github.io/PetShop/'
 	},
 	{
-		id: 3,
+		id: 6,
 		title: 'Cloudpillow',
 		category: 'Shopify projects',
 		img: require('@/assets/images/cloudpillow.jpg'),
 		url: 'https://yourcloudpillow.com/'
 	},
 	{
-		id: 6,
+		id: 7,
 		title: 'Beepb.io',
 		category: 'Frontend projects',
 		img: require('@/assets/images/beep.jpg'),
 		url:'https://tikoot.github.io/Figma/'
 	},
 	{
-		id: 7,
+		id: 8,
 		title: 'Domains',
 		category: 'Frontend projects',
 		img: require('@/assets/images/domains.jpg'),
 		url: 'https://tikoot.github.io/Domains/'
 	},
 	{
-		id: 8,
+		id: 9,
 		title: 'Seat Reservation',
 		category: 'Frontend projects',
 		img: require('@/assets/images/seat.jpg'),
 		url: 'https://tikoot.github.io/Seat-Reservation-Project/'
 	},
 	{
-		id: 9,
+		id: 10,
 		title: 'Vacation Destination',
 		category: 'Frontend projects',
 		img: require('@/assets/images/vacation.jpg'),
 		url: 'https://tikoot.github.io/Vacaton-Destination/'
 	},
 	{
-		id: 10,
+		id: 11,
 		title: 'Distance Converter',
 		category: 'Frontend projects',
 		img: require('@/assets/images/ditance.jpg'),
 		url: 'https://tikoot.github.io/distance-converter/'
 	},
 	{
-		id: 11,
+		id: 12,
 		title: 'Guess My Number Game',
 		category: 'Frontend projects',
 		img: require('@/assets/images/numbers.jpg'),
 		url: 'https://tikoot.github.io/guess-my-number-game/'
 	},
 	{
-		id: 12,
+		id: 13,
 		title: 'Youtube Clone',
 		category: 'Frontend projects',
 		img: require('@/assets/images/yout.jpg'),
